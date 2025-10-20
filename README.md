@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm John Pritom Biswas</h1>
-<h3 align="center">A passionate Data Analyst from Bangladesh</h3>
+<h3 align="center">I’m a passionate Software Quality Assurance Engineer with a strong foundation in Manual and API Testing from Bangladesh</h3>
 
 <!-- New Animated Image -->
 <p align="center">
@@ -14,11 +14,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnpritombiswas&label=Profile%20views&color=0e75b6&style=flat" alt="johnpritombiswas" /> </p>
 
-- 🔭 I’m currently working on **My thesis**
+- 🔭 I’m currently Looking for **Opportunities**
 
-- 🌱 I’m currently learning **Seaborn, Power BI**
+- 🌱 I’m currently learning **Automation testing**
 
-- 💬 Ask me about **Games, Research, Data Manipulation, Data Visualization, Data Cleaning and Preprocessing**
+- 💬 Ask me about **| Manual Testing | API Testing | Postman | Jira | SDLC | STLC | Bug Reporting | Data Manipulation| Data Visualization| Data Cleaning and Preprocessing| Black Box Testing**
 
 - 📫 How to reach me **johnpritombiswas28@gmail.com**
 
