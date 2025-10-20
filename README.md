@@ -1,7 +1,8 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1AJxreBV8Ksdl-DywmNLsv16RIBWBPwWR" alt="Header Image" width="800"/>
+  <img src="https://drive.google.com/uc?export=view&id=1RIJvbt98bvBXfcEtmx4zBdOHXAlBp-fc" alt="New Image" width="800"/>
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm John Pritom Biswas</h1>
