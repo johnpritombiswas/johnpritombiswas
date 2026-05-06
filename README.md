@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1RIJvbt98bvBXfcEtmx4zBdOHXAlBp-fc" alt="Header Image" width="800"/>
+  <img src="https://drive.google.com/uc?export=view&id=1RIJvbt98bvBXfcEtmx4zBdOHXAlBp-fc" alt="Header Image" width="700"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm John Pritom Biswas</h1>
@@ -55,7 +55,6 @@ Python • Java • C++ • SQL • TensorFlow • Scikit‑learn • CNNs • T
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=johnpritombiswas&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnpritombiswas&theme=radical" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johnpritombiswas&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
