@@ -1,7 +1,5 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1RIJvbt98bvBXfcEtmx4zBdOHXAlBp-fc" alt="Header Image" width="700"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm John Pritom Biswas</h1>
 <h3 align="center">AI Product Manager • Software Quality Assurance Engineer</h3>
