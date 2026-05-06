@@ -57,7 +57,7 @@ Python • Java • C++ • SQL • TensorFlow • Scikit‑learn • CNNs • T
 ### 📌 Featured Projects
 
 <!-- Direct links (work even before repos exist) -->
-- [Elsevier Q1 Publication – Brain Tumor Diagnosis]([https://doi.org/your-doi-link-here](https://doi.org/10.1016/j.health.2025.100421))  
+- [Elsevier Q1 Publication – Brain Tumor Diagnosis](https://doi.org/your-doi-link-here](https://doi.org/10.1016/j.health.2025.100421))  
 - [ERP QA Automation – Internship QA Artifacts](https://github.com/johnpritombiswas)  
 - [OWASP QA Suite – Test Plan & Bug Reports](https://github.com/johnpritombiswas/owasp-webapp-manual-testing-qa/tree/main/Test%20Plan)
 
