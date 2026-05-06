@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 - **AI Product Manager at Dot BD Solutions** — driving product reliability and AI‑enabled improvements.  
-- **ERP QA Intern at MEP Group** — documented 37+ defects, resolved critical bugs, trained 1,000+ field staff.  
+- **ERP QA Intern at MEP Group** — documented 37+ defects, resolved critical bugs, trained 100+ field staff.  
 - **Published Elsevier Q1 Author** — Brain Tumor Diagnosis research with CNNs, Transfer Learning, Feature Fusion.  
 - **BSc in CSE (AI specialization)** — Bangladesh University of Business and Technology, CGPA 3.56.  
 
