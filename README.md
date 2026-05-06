@@ -13,7 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=johnpritombiswas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
----
 
 ### 🚀 About Me
 - 🔭 **AI Product Manager at Dot BD Solutions** — driving product reliability and AI‑enabled improvements.  
@@ -42,13 +41,11 @@ Manual Testing • API Testing • Postman • Jira • SDLC • STLC • Bug Re
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40"/>
   </a>
 </p>
+
 ---
 
 ### ⚡ Tech Arsenal
 Python • Java • C++ • SQL • TensorFlow • Scikit‑learn • CNNs • Transfer Learning • Feature Fusion • Prompt Engineering • Laravel • HTML • CSS • REST APIs • Postman • Jira • Playwright • MySQL • ERP Systems • Pandas • Matplotlib • LaTeX
-
----
-
 
 
 ---
