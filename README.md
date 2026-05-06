@@ -15,11 +15,11 @@
 
 
 ### 🚀 About Me
-- **AI Product Manager at [Dot BD Solutions](https://dotbdsolutions.com)** — driving product reliability and AI‑enabled improvements.  
-- **ERP QA Intern at [MEP Group](https://mepgroupbd.com/)** — documented 37+ defects, resolved critical bugs, trained 100+ field staff.
-- Resume [Link](https://drive.google.com/file/d/1OwCxpNAwbnDsZqhq0rhlKjHsPPveO83d/view?usp=sharing) 
-- **Published Elsevier Q1 Author** — Brain Tumor Diagnosis research with CNNs, Transfer Learning, Feature Fusion.  
-- **BSc in CSE (AI specialization)** — Bangladesh University of Business and Technology, CGPA 3.56.  
+- 👨‍💻**AI Product Manager at [Dot BD Solutions](https://dotbdsolutions.com)** — driving product reliability and AI‑enabled improvements.  
+- 👨‍💻**ERP QA Intern at [MEP Group](https://mepgroupbd.com/)** — documented 37+ defects, resolved critical bugs, trained 100+ field staff.
+- 🏆**Published Elsevier Q1 Author** — Brain Tumor Diagnosis research with CNNs, Transfer Learning, Feature Fusion.  
+- 📚 **BSc in CSE (AI specialization)** — Bangladesh University of Business and Technology, CGPA 3.56.
+- 📄[Resume](https://drive.google.com/file/d/1OwCxpNAwbnDsZqhq0rhlKjHsPPveO83d/view?usp=sharing)
 
 ---
 
