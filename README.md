@@ -35,7 +35,7 @@ Manual Testing • API Testing • Postman • Jira • SDLC • STLC • Bug Re
   <a href="https://linkedin.com/in/johnpritombiswas" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/johnpritombiswas" target="blank">
+  <a href="https://johnpritombiswas.github.io" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://facebook.com/pritom.biswas.71" target="blank">
