@@ -55,10 +55,6 @@ Python • Java • C++ • SQL • TensorFlow • Scikit‑learn • CNNs • T
 ---
 
 ### 📌 Featured Projects
-<!-- Repo cards (will work once repos exist) -->
-[![Brain Tumor Diagnosis](https://github-readme-stats.vercel.app/api/pin/?username=johnpritombiswas&repo=Brain-Tumor-Diagnosis&theme=radical)](https://github.com/johnpritombiswas/Brain-Tumor-Diagnosis)  
-[![ERP QA Automation](https://github-readme-stats.vercel.app/api/pin/?username=johnpritombiswas&repo=ERP-QA-Automation&theme=radical)](https://github.com/johnpritombiswas/ERP-QA-Automation)  
-[![OWASP QA Suite](https://github-readme-stats.vercel.app/api/pin/?username=johnpritombiswas&repo=OWASP-QA-Suite&theme=radical)](https://github.com/johnpritombiswas/OWASP-QA-Suite)
 
 <!-- Direct links (work even before repos exist) -->
 - [Elsevier Q1 Publication – Brain Tumor Diagnosis](https://doi.org/your-doi-link-here)  
