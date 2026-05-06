@@ -1,12 +1,12 @@
-<!-- Header Image -->
+<!-- Banner -->
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1RIJvbt98bvBXfcEtmx4zBdOHXAlBp-fc" alt="Header Image" width="800"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm John Pritom Biswas</h1>
-<h3 align="center">AI Product Manager & Software Quality Assurance Engineer</h3>
+<h3 align="center">AI Product Manager • Software Quality Assurance Engineer</h3>
 
-<!-- Animated Image -->
+<!-- Animated Graphic -->
 <p align="center">
   <img src="https://drive.google.com/uc?export=preview&id=1Z89Wq8c1H-XRMQskauk4jCrY6PFuaIIm" alt="Animated Image" width="500" height="400"/>
 </p>
@@ -17,27 +17,18 @@
 
 ---
 
-### 🔭 Current Role
-- AI Product Manager at **Dot BD Solutions** (cross‑platform product reliability, AI‑enabled improvements).
-- Former ERP QA Intern at **MEP Group** (documented 37+ defects, resolved critical bugs, trained field staff).
-- Published Q1 Elsevier Author in AI (Brain Tumor Diagnosis research).
+### 🚀 About Me
+- 🔭 **AI Product Manager at Dot BD Solutions** — driving product reliability and AI‑enabled improvements.  
+- 🧑‍💻 Former **ERP QA Intern at MEP Group** — documented 37+ defects, resolved critical bugs, trained 1,000+ field staff.  
+- 📖 **Published Elsevier Q1 Author** — Brain Tumor Diagnosis research with CNNs, Transfer Learning, Feature Fusion.  
+- 🎓 **BSc in CSE (AI specialization)** — Bangladesh University of Business and Technology, CGPA 3.56.  
 
 ---
 
 ### 💬 Ask Me About
-Manual Testing | API Testing | Postman | Jira | SDLC | STLC | Bug Reporting | ERP QA | AI Product Management | Data Cleaning | ML Pipelines
+Manual Testing • API Testing • Postman • Jira • SDLC • STLC • Bug Reporting • ERP QA • AI Product Management • Data Cleaning • ML Pipelines
 
 📫 Reach me at: **johnpritombiswas28@gmail.com**
-
----
-
-### 📫 How to Reach Me
-**Email:** johnpritombiswas28@gmail.com  
-
----
-
-### 📫 How to Reach Me
-**Email:** johnpritombiswas28@gmail.com  
 
 ---
 
@@ -54,11 +45,10 @@ Manual Testing | API Testing | Postman | Jira | SDLC | STLC | Bug Reporting | ER
   </a>
 </p>
 
-
 ---
 
 ### ⚡ Tech Arsenal
-Python | Java | C++ | SQL | TensorFlow | Scikit‑learn | CNNs | Transfer Learning | Feature Fusion | Prompt Engineering | Laravel | HTML | CSS | REST APIs | Postman | Jira | Playwright | MySQL | ERP Systems | Pandas | Matplotlib | LaTeX
+Python • Java • C++ • SQL • TensorFlow • Scikit‑learn • CNNs • Transfer Learning • Feature Fusion • Prompt Engineering • Laravel • HTML • CSS • REST APIs • Postman • Jira • Playwright • MySQL • ERP Systems • Pandas • Matplotlib • LaTeX
 
 ---
 
@@ -81,3 +71,10 @@ Python | Java | C++ | SQL | TensorFlow | Scikit‑learn | CNNs | Transfer Learni
 - [Elsevier Q1 Publication – Brain Tumor Diagnosis](https://doi.org/your-doi-link-here)  
 - [ERP QA Automation – Internship QA Artifacts](https://github.com/johnpritombiswas)  
 - [OWASP QA Suite – Test Plan & Bug Reports](https://github.com/johnpritombiswas)
+
+---
+
+### 🏆 Achievements
+- 🥇 National Champion — Poster Presentation, BCS ICT Fest 2025 (BUET).  
+- 🥈 Inter‑University Champion — Innovative Idea Pitching, Brainstorming Week 2024.  
+- 📖 Elsevier Q1 Publication — *An Integrated Deep Learning Approach for Enhancing Brain Tumor Diagnosis*.  
