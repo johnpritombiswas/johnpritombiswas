@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm John Pritom Biswas</h1>
-<h3 align="center">I’m a passionate Software Quality Assurance Engineer with a strong foundation in Manual and API Testing from Bangladesh</h3>
+<h3 align="center">AI Product Manager & Software Quality Assurance</h3>
 
 <!-- New Animated Image -->
 <p align="center">
