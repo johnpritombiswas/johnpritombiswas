@@ -15,15 +15,19 @@
 
 
 ### 🚀 About Me
-- 🔭 **AI Product Manager at Dot BD Solutions** — driving product reliability and AI‑enabled improvements.  
-- 🧑‍💻 Former **ERP QA Intern at MEP Group** — documented 37+ defects, resolved critical bugs, trained 1,000+ field staff.  
-- 📖 **Published Elsevier Q1 Author** — Brain Tumor Diagnosis research with CNNs, Transfer Learning, Feature Fusion.  
-- 🎓 **BSc in CSE (AI specialization)** — Bangladesh University of Business and Technology, CGPA 3.56.  
+- **AI Product Manager at Dot BD Solutions** — driving product reliability and AI‑enabled improvements.  
+- **ERP QA Intern at MEP Group** — documented 37+ defects, resolved critical bugs, trained 1,000+ field staff.  
+- **Published Elsevier Q1 Author** — Brain Tumor Diagnosis research with CNNs, Transfer Learning, Feature Fusion.  
+- **BSc in CSE (AI specialization)** — Bangladesh University of Business and Technology, CGPA 3.56.  
 
 ---
 
-### 💬 Ask Me About
-Manual Testing • API Testing • Postman • Jira • SDLC • STLC • Bug Reporting • ERP QA • AI Product Management • Data Cleaning • ML Pipelines
+### 🎯 Core Expertise
+- **Software Quality Assurance**: Manual Testing, Test Case Design, Bug Reporting, SDLC & STLC workflows  
+- **API & Automation Testing**: Postman, Playwright, REST APIs, ERP QA Automation  
+- **AI & Data Science**: Machine Learning Pipelines, CNNs, Transfer Learning, Feature Fusion, Prompt Engineering  
+- **Technical Tools**: Python, SQL, MySQL, Pandas, Matplotlib, LaTeX  
+- **Collaboration & Leadership**: Jira, ERP Systems, Training Facilitation, Stakeholder Communication  
 
 📫 Reach me at: **johnpritombiswas28@gmail.com**
 
