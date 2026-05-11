@@ -10,7 +10,7 @@
 </p>
 <!-- Animated Graphic -->
 <p align="center">
-  <img src="https://drive.google.com/uc?export=preview&id=1Z89Wq8c1H-XRMQskauk4jCrY6PFuaIIm" alt="Animated Image" width="500" height="400"/>
+  <img src="https://drive.google.com/uc?export=preview&id=1Z89Wq8c1H-XRMQskauk4jCrY6PFuaIIm" alt="Animated Image" width="400" height="400"/>
 </p>
 <!-- Profile View Count -->
 <p align="center">
