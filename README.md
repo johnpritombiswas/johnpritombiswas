@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&customColorList=24,20,17,30&text=John%20Pritom%20Biswas&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20ML%20Researcher%20•%20Software%20QA&descAlignY=58&descSize=20" />
 
 </div>
-
+<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Researcher;Software+QA+Engineer;Data+Science+Enthusiast" />
 </p>
@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://drive.google.com/uc?export=preview&id=1Z89Wq8c1H-XRMQskauk4jCrY6PFuaIIm" alt="Animated Image" width="600" height="400"/>
 </p>
-
+<!-- Profile View Count -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=johnpritombiswas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
