@@ -96,37 +96,59 @@ https://doi.org/10.1016/j.health.2025.100421
 
 ---
 
-## 🛠 Technical Skills
+# 🛠 Technical Skills
+
+<table width="100%">
+<tr>
+
+<td valign="top" width="25%">
 
 ### 🤖 AI & Machine Learning
-- Machine Learning Pipelines
-- CNN Architectures
-- Transfer Learning
-- Feature Fusion
-- Prompt Engineering
-- Data Analysis & Visualization
+- Machine Learning Pipelines  
+- CNN Architectures  
+- Transfer Learning  
+- Feature Fusion  
+- Prompt Engineering  
+- Data Analysis & Visualization  
+
+</td>
+
+<td valign="top" width="25%">
+  
+### 🔌 API & Automation
+- REST APIs  
+- Postman  
+- Playwright  
+- API Testing  
+
+</td>
+
+<td valign="top" width="25%">
 
 ### 🧪 Software Quality Assurance
-- Manual Testing
-- Test Case Design
-- Bug Reporting
-- SDLC & STLC
-- ERP Testing
-- QA Documentation
+- Manual Testing  
+- Test Case Design  
+- Bug Reporting  
+- SDLC & STLC  
+- ERP Testing  
+- QA Documentation  
 
-### 🔌 API & Automation
-- REST APIs
-- Postman
-- Playwright
-- API Testing
+</td>
 
+<td valign="top" width="25%">
+  
 ### 📊 Data & Tools
-- Python
-- SQL & MySQL
-- Pandas
-- Matplotlib
-- LaTeX
-- Jira
+- Python  
+- SQL & MySQL  
+- Pandas  
+- Matplotlib  
+- LaTeX  
+- Jira  
+
+</td>
+
+</tr>
+</table>
 
 ---
 
