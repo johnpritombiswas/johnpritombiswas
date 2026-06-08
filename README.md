@@ -36,7 +36,7 @@ BSc CSE (AI Major) • Elsevier Q1 Author • ERP & QA Experience • AI Product
 
 # 🚀 About Me
 
-- 👨‍💻 Currently working as an **AI Product Manager at [Dot BD Solutions](https://dotbdsolutions.com)**, focusing on product reliability, AI-driven improvements, and technical coordination.
+- 👨‍💻 Currently working as an **AI Product Manager/Engineer at [Dot BD Solutions](https://dotbdsolutions.com)**, focusing on product reliability, AI-driven improvements, and technical coordination.
   
 - 🧪 Former **ERP QA Intern at [MEP Group](https://mepgroupbd.com/)** where I documented **37+ defects**, resolved critical system issues, and trained **100+ field staff** on ERP workflows.
 
