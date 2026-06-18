@@ -19,7 +19,7 @@ Building AI Solutions • Researching Intelligent Systems • Improving Software
 </h3>
 
 <p align="center">
-BSc CSE (AI Major) • Elsevier Q1 Author • ERP & QA Experience • AI Product Management
+BSc CSE (AI Major) • Elsevier Q1 Author • Odoo ERP & QA Experience • AI Product Management
 </p>
 
 <!-- Animated Graphic -->
