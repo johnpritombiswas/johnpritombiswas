@@ -36,7 +36,7 @@ BSc CSE (AI Major) • Elsevier Q1 Author • Odoo ERP & QA Experience • AI Pr
 
 # 🚀 About Me
 
-- 👨‍💻 Currently working as an **AI Product Manager & Engineer at [Dot BD Solutions](https://dotbdsolutions.com)**, focusing on product reliability, AI-driven improvements, and technical coordination.
+- 👨‍💻 Currently working as an **AI Product Manager & Engineer at [Dot BD Solutions](https://dotbdsolutions.com)**, focusing on product reliability, AI-driven improvements, and technical coordination. Currenty working as odoo consultant and developer.
   
 - 🧪 Former **ERP QA Intern at [MEP Group](https://mepgroupbd.com/)** where I documented **37+ defects**, resolved critical system issues, and trained **100+ field staff** on ERP workflows.
 
